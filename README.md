@@ -4,5 +4,7 @@
 
 ![Skills](https://skillicons.dev/icons?i=github,c,cpp,html,js,css,php,py,md,bash,docker,git,mysql,sqlite,linux,nginx,vim,vscode,nodejs,visualstudio)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=wym6912)
+
 <br>
 <div align="center">You are the <img src="https://profile-counter.glitch.me/wym6912/count.svg">th visitor.</div>
